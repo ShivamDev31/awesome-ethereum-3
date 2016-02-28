@@ -76,8 +76,16 @@
 
 #### Development
 
+##### Non-profit
+
 * [Ethereum Foundation](https://www.ethereum.org/foundation)
+* [ETHDEV](https://ethdev.org)
+
+##### For-profit
+
+* [Consensys](https://consensys.net/)
 * [Ethcore](https://ethcore.io/)
+* [Slock.it](https://slock.it/)
 
 #### Exchanges
 
