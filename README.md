@@ -21,37 +21,37 @@
 
 ## Community
 
-### Chat
+#### Chat
 
 * [Gitter](https://gitter.im/ethereum/)
 * [Freenode IRC #ethereum](irc://irc.freenode.net/ethereum)
 
-### Forums
+#### Forums
 
 * [Offical Blog](https://blog.ethereum.org/)
 * [Stack Exchange](https://ethereum.stackexchange.com/)
 * [Reddit](https://www.reddit.com/r/ethereum)
 
-### Meetups
+#### Meetups
 
 * [DEVCON Videos](http://www.youtube.com/ethereumproject)
 * [Meetup.com](http://ethereum.meetup.com/)
 
 ## Nodes
 
-### Full nodes
+#### Full nodes
 
 * [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions.
 * [Go client](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
 
-### Wallets
+#### Wallets
 
-#### Hot wallets
+##### Hot wallets
 
 * [Mist](https://github.com/ethereum/mist) - Official wallet with integrated full node.
 * [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
 
-#### Cold wallets
+##### Cold wallets
 
 * [Myetherwallet](http://myetherwallet.com/)
 * [EthAddress](https://github.com/ryepdx/ethaddress.org)
@@ -62,24 +62,24 @@
 
 ## Explorers
 
-### Mainnet
+#### Mainnet
 
 * [Etherchain](https://www.etherchain.org/)
 * [Etherscan](http://etherscan.io/)
 * [stats.ethdev.com](http://stats.ethdev.com/)
 
-### Testnet
+#### Testnet
 
 * [Etherscan Testnet](http://testnet.etherscan.io/)
 
 ## Organisations
 
-### Development
+#### Development
 
 * [Ethereum Foundation](https://www.ethereum.org/foundation)
 * [Ethcore](https://ethcore.io/)
 
-### Exchanges
+#### Exchanges
 
 * [Bittrex](https://bittrex.com/)
 * [Gatecoin](https://gatecoin.com/)
@@ -87,7 +87,7 @@
 * [Poloniex](https://poloniex.com/)
 * [Shapeshift](https://shapeshift.io/)
 
-### Mining Pools
+#### Mining Pools
 
 * [Coinmine](https://www2.coinmine.pl/)
 * [Coinotron](https://www.coinotron.com/app?action=home)
@@ -106,4 +106,3 @@
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author of this page has waived all copyright and related or neighboring rights to this work.
-
