@@ -15,7 +15,7 @@ A curated list of resources related to the Ethereum project.
 #### Chat
 
 * [Gitter](https://gitter.im/ethereum/)
-* [IRC Freenode](irc://freenode/ethereum)
+* [Freenode IRC](irc://irc.freenode.net/ethereum)
 
 #### Forums
 
@@ -34,11 +34,7 @@ A curated list of resources related to the Ethereum project.
 
 ### Projects
 
-* http://dapps.ethercasts.com/ - List of many projects
-
-### Organisations
-
-* https://www.ethereum.org/foundation
+* [State of the Dapps](http://dapps.ethercasts.com/) - List of many applications
 
 ### Explorers
 
@@ -63,6 +59,10 @@ A curated list of resources related to the Ethereum project.
 
 * [Myetherwallet](http://myetherwallet.com/)
 * [EthAddress](https://github.com/ryepdx/ethaddress.org)
+
+### Organisations
+
+* https://www.ethereum.org/foundation
 
 ### Exchanges
 
