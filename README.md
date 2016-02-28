@@ -1,72 +1,84 @@
 # Awesome Ethereum [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources related to the Ethereum project.
+> Useful resources for using [Ethereum](https://www.ethereum.org/) and building things on top of it
 
-### Documentation
+## Table of Contents
 
-* [ethereum.org](https://www.ethereum.org/) - Official website
-* [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Current release
-* [Homestead Guide](https://ethereum-homestead.readthedocs.org/en/latest/) - Future release
-* [docs.ethereum.org](https://docs.ethereum.org/) - Library guide
-* [Solidity](http://solidity.readthedocs.org/) - Programming language
+* [Documentation](#Documentation)
+* [Community](#Community)
+* [Nodes](#Nodes)
+* [Projects](#Projects)
+* [Explorers](#Explorers)
+* [Wallets](#Wallets)
+* [Organisations](#Organisations)
+* [Exchanges](#Exchanges)
+* [Mining Pools](#Mining-Pools)
+* [Related Lists](#Related-Lists)
 
-### Community
+## Documentation
 
-#### Chat
+* [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Current release.
+* [Homestead Guide](https://ethereum-homestead.readthedocs.org/en/latest/) - Future release.
+* [docs.ethereum.org](https://docs.ethereum.org/) - Library guide.
+* [Solidity](http://solidity.readthedocs.org/) - Programming language.
+
+## Community
+
+### Chat
 
 * [Gitter](https://gitter.im/ethereum/)
 * [Freenode IRC #ethereum](irc://irc.freenode.net/ethereum)
 
-#### Forums
+### Forums
 
 * [Offical Blog](https://blog.ethereum.org/)
 * [Stack Exchange](https://ethereum.stackexchange.com/)
 * [Reddit](https://www.reddit.com/r/ethereum)
 
-#### Meetups
+### Meetups
 
 * [DEVCON Videos](http://www.youtube.com/ethereumproject)
 * [Meetup.com](http://ethereum.meetup.com/)
 
-### Nodes
+## Nodes
 
-* [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions
+* [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions.
 * [Go client](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
 
-### Projects
+## Projects
 
-* [State of the Dapps](http://dapps.ethercasts.com/) - List of many applications
+* [State of the Dapps](http://dapps.ethercasts.com/) - List of many applications.
 
-### Explorers
+## Explorers
 
-#### Mainnet
+### Mainnet
 
 * [Etherchain](https://www.etherchain.org/)
 * [Etherscan](http://etherscan.io/)
 * [stats.ethdev.com](http://stats.ethdev.com/)
 
-#### Testnet
+### Testnet
 
 * [Etherscan Testnet](http://testnet.etherscan.io/)
 
-### Wallets
+## Wallets
 
-#### Hot wallets
+### Hot wallets
 
-* [Mist](https://github.com/ethereum/mist) - Official wallet
-* [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin
+* [Mist](https://github.com/ethereum/mist) - Official wallet.
+* [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
 
-#### Cold wallets
+### Cold wallets
 
 * [Myetherwallet](http://myetherwallet.com/)
 * [EthAddress](https://github.com/ryepdx/ethaddress.org)
 
-### Organisations
+## Organisations
 
 * [Ethereum Foundation](https://www.ethereum.org/foundation)
 * [Ethcore](https://ethcore.io/)
 
-### Exchanges
+## Exchanges
 
 * [Bittrex](https://bittrex.com/)
 * [Gatecoin](https://gatecoin.com/)
@@ -74,7 +86,7 @@ A curated list of resources related to the Ethereum project.
 * [Poloniex](https://poloniex.com/)
 * [Shapeshift](https://shapeshift.io/)
 
-### Mining Pools
+## Mining Pools
 
 * [Coinmine](https://www2.coinmine.pl/)
 * [Coinotron](https://www.coinotron.com/app?action=home)
@@ -82,7 +94,7 @@ A curated list of resources related to the Ethereum project.
 * [Ethpool](http://ethpool.org/)
 * [Nanopool](http://nanopool.org/)
 
-### Related Lists
+## Related Lists
 
 * https://github.com/steve-vincent/awesome-decentralized
 * https://github.com/kgryte/awesome-peer-to-peer
