@@ -42,7 +42,11 @@
 #### Full nodes
 
 * [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions.
-* [Go client](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
+* [Geth](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum) - Go.
+* [EthereumJ](http://ethereumj.io/) - Java.
+* [EthereumJS](https://ethereumjs.github.io/) - Javascript.
+* [Parity](https://ethcore.io/parity.html) - Rust.
+* [PyEthereum](https://github.com/ethereum/pyethereum) - Python.
 
 #### Wallets
 
@@ -79,7 +83,7 @@
 ##### Non-profit
 
 * [Ethereum Foundation](https://www.ethereum.org/foundation)
-* [ETHDEV](https://ethdev.org)
+* [ETHDEV](http://ethdev.com/)
 
 ##### For-profit
 
