@@ -15,7 +15,7 @@ A curated list of resources related to the Ethereum project.
 #### Chat
 
 * [Gitter](https://gitter.im/ethereum/)
-* [Freenode IRC](irc://irc.freenode.net/ethereum)
+* [Freenode IRC #ethereum](irc://irc.freenode.net/ethereum)
 
 #### Forums
 
@@ -31,6 +31,7 @@ A curated list of resources related to the Ethereum project.
 ### Nodes
 
 * [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions
+* [Go client](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
 
 ### Projects
 
@@ -62,7 +63,8 @@ A curated list of resources related to the Ethereum project.
 
 ### Organisations
 
-* https://www.ethereum.org/foundation
+* [Ethereum Foundation](https://www.ethereum.org/foundation)
+* [Ethcore](https://ethcore.io/)
 
 ### Exchanges
 
