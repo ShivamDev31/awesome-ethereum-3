@@ -4,37 +4,37 @@ A curated list of resources related to the Ethereum project.
 
 ### Documentation
 
-* https://www.ethereum.org/
-* https://ethereum.gitbooks.io/frontier-guide/content/
-* https://ethereum-homestead.readthedocs.org/en/latest/
-* https://docs.ethereum.org/
-* http://solidity.readthedocs.org/
+* [ethereum.org](https://www.ethereum.org/) - Official website
+* [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Current release
+* [Homestead Guide](https://ethereum-homestead.readthedocs.org/en/latest/) - Future release
+* [docs.ethereum.org](https://docs.ethereum.org/) - Library guide
+* [Solidity](http://solidity.readthedocs.org/) - Programming language
 
 ### Community
 
 #### Chat
 
-* https://gitter.im/ethereum/
-* IRC Freenode #ethereum
+* [Gitter](https://gitter.im/ethereum/)
+* [IRC Freenode](irc://freenode/ethereum)
 
 #### Forums
 
-* https://blog.ethereum.org/
-* https://ethereum.stackexchange.com/
-* https://www.reddit.com/r/ethereum
+* [Offical Blog](https://blog.ethereum.org/)
+* [Stack Exchange](https://ethereum.stackexchange.com/)
+* [Reddit](https://www.reddit.com/r/ethereum)
 
 #### Meetups
 
-* http://www.youtube.com/ethereumproject
-* http://ethereum.meetup.com/
+* [DEVCON Videos](http://www.youtube.com/ethereumproject)
+* [Meetup.com](http://ethereum.meetup.com/)
 
 ### Nodes
 
-* https://www.ethereum.org/cli
+* [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions
 
 ### Projects
 
-* http://dapps.ethercasts.com/
+* http://dapps.ethercasts.com/ - List of many projects
 
 ### Organisations
 
@@ -44,34 +44,41 @@ A curated list of resources related to the Ethereum project.
 
 #### Mainnet
 
-* https://www.etherchain.org/
-* http://etherscan.io/
-* http://stats.ethdev.com/
+* [Etherchain](https://www.etherchain.org/)
+* [Etherscan](http://etherscan.io/)
+* [stats.ethdev.com](http://stats.ethdev.com/)
 
 #### Testnet
 
-* http://testnet.etherscan.io/
+* [Etherscan Testnet](http://testnet.etherscan.io/)
 
 ### Wallets
 
-## Hot wallets
+#### Hot wallets
 
-* https://github.com/ethereum/mist
-* http://jaxx.io/
+* [Mist](https://github.com/ethereum/mist) - Official wallet
+* [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin
 
-## Cold wallets
+#### Cold wallets
 
-* http://myetherwallet.com/
-* https://github.com/ryepdx/ethaddress.org
+* [Myetherwallet](http://myetherwallet.com/)
+* [EthAddress](https://github.com/ryepdx/ethaddress.org)
 
 ### Exchanges
 
-* https://bittrex.com/
-* https://gatecoin.com/
-* https://kraken.com/
-* https://poloniex.com/
+* [Bittrex](https://bittrex.com/)
+* [Gatecoin](https://gatecoin.com/)
+* [Kraken](https://kraken.com/)
+* [Poloniex](https://poloniex.com/)
+* [Shapeshift](https://shapeshift.io/)
 
-* https://shapeshift.io/
+### Mining Pools
+
+* [Coinmine](https://www2.coinmine.pl/)
+* [Coinotron](https://www.coinotron.com/app?action=home)
+* [Dwarfpool](http://dwarfpool.com/)
+* [Ethpool](http://ethpool.org/)
+* [Nanopool](http://nanopool.org/)
 
 ### Related Lists
 
