@@ -9,10 +9,7 @@
 * [Nodes](#nodes)
 * [Projects](#projects)
 * [Explorers](#explorers)
-* [Wallets](#wallets)
 * [Organisations](#organisations)
-* [Exchanges](#exchanges)
-* [Mining Pools](#mining-pools)
 * [Related Lists](#related-lists)
 
 ## Documentation
@@ -42,8 +39,22 @@
 
 ## Nodes
 
+### Full nodes
+
 * [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions.
 * [Go client](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
+
+### Wallets
+
+#### Hot wallets
+
+* [Mist](https://github.com/ethereum/mist) - Official wallet with integrated full node.
+* [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
+
+#### Cold wallets
+
+* [Myetherwallet](http://myetherwallet.com/)
+* [EthAddress](https://github.com/ryepdx/ethaddress.org)
 
 ## Projects
 
@@ -61,24 +72,14 @@
 
 * [Etherscan Testnet](http://testnet.etherscan.io/)
 
-## Wallets
-
-### Hot wallets
-
-* [Mist](https://github.com/ethereum/mist) - Official wallet.
-* [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
-
-### Cold wallets
-
-* [Myetherwallet](http://myetherwallet.com/)
-* [EthAddress](https://github.com/ryepdx/ethaddress.org)
-
 ## Organisations
+
+### Development
 
 * [Ethereum Foundation](https://www.ethereum.org/foundation)
 * [Ethcore](https://ethcore.io/)
 
-## Exchanges
+### Exchanges
 
 * [Bittrex](https://bittrex.com/)
 * [Gatecoin](https://gatecoin.com/)
@@ -86,7 +87,7 @@
 * [Poloniex](https://poloniex.com/)
 * [Shapeshift](https://shapeshift.io/)
 
-## Mining Pools
+### Mining Pools
 
 * [Coinmine](https://www2.coinmine.pl/)
 * [Coinotron](https://www.coinotron.com/app?action=home)
