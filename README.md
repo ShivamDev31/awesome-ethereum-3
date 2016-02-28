@@ -4,16 +4,16 @@
 
 ## Table of Contents
 
-* [Documentation](#Documentation)
-* [Community](#Community)
-* [Nodes](#Nodes)
-* [Projects](#Projects)
-* [Explorers](#Explorers)
-* [Wallets](#Wallets)
-* [Organisations](#Organisations)
-* [Exchanges](#Exchanges)
-* [Mining Pools](#Mining-Pools)
-* [Related Lists](#Related-Lists)
+* [Documentation](#documentation)
+* [Community](#community)
+* [Nodes](#nodes)
+* [Projects](#projects)
+* [Explorers](#explorers)
+* [Wallets](#wallets)
+* [Organisations](#organisations)
+* [Exchanges](#exchanges)
+* [Mining Pools](#mining-pools)
+* [Related Lists](#related-lists)
 
 ## Documentation
 
