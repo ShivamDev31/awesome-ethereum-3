@@ -2,6 +2,8 @@
 
 > Useful resources for using [Ethereum](https://www.ethereum.org/) and building things on top of it
 
+![Awesome Ethereum](https://tomashvili.com/images/ethereum_landscape_2.png "Awesome Ethereum")
+
 ## Table of Contents
 
 * [Documentation](#documentation)
@@ -33,10 +35,17 @@
 * [Stack Exchange](https://ethereum.stackexchange.com/)
 * [Reddit](https://www.reddit.com/r/ethereum)
 
+#### News
+
+* [Twitter](https://twitter.com/ethereumproject)
+* [Youtube](http://www.youtube.com/ethereumproject)
+* [Facebook](https://www.facebook.com/ethereumproject)
+
 #### Meetups
 
-* [DEVCON Videos](http://www.youtube.com/ethereumproject)
-* [Meetup.com](http://ethereum.meetup.com/)
+* [Meetups](http://ethereum.meetup.com/)
+* [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
+* [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
 
 ## Nodes
 
@@ -72,7 +81,7 @@
 
 * [Etherchain](https://www.etherchain.org/)
 * [Etherscan](http://etherscan.io/)
-* [stats.ethdev.com](http://stats.ethdev.com/)
+* [Ethstats](https://ethstats.net/)
 
 #### Testnet
 
