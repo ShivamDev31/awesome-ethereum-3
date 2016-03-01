@@ -14,6 +14,7 @@
 
 ## Documentation
 
+* [Ethereum 101](http://www.ethereum-101.com/) - Intro for newcomers.
 * [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Current release.
 * [Homestead Guide](https://ethereum-homestead.readthedocs.org/en/latest/) - Future release.
 * [docs.ethereum.org](https://docs.ethereum.org/) - Library guide.
@@ -41,8 +42,9 @@
 
 #### Full nodes
 
-* [C++, Go, Python](https://www.ethereum.org/cli) - Installation instructions.
+* [Geth, Eth, PyEthereum](https://www.ethereum.org/cli) - Installation instructions.
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum) - Go.
+* [Eth](https://github.com/ethereum/webthree-umbrella) - C++.
 * [EthereumJ](http://ethereumj.io/) - Java.
 * [EthereumJS](https://ethereumjs.github.io/) - Javascript.
 * [Parity](https://ethcore.io/parity.html) - Rust.
