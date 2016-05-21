@@ -69,6 +69,7 @@
 ##### Cold wallets
 
 * [Myetherwallet](http://myetherwallet.com/)
+* [Icebox](https://github.com/consenSys/icebox)
 * [EthAddress](https://github.com/ryepdx/ethaddress.org)
 
 ## Projects
@@ -79,13 +80,19 @@
 
 #### Mainnet
 
+* [Etherscan](https://etherscan.io/)
+* [ether.camp](https://live.ether.camp/)
 * [Etherchain](https://www.etherchain.org/)
-* [Etherscan](http://etherscan.io/)
-* [Ethstats](https://ethstats.net/)
 
 #### Testnet
 
-* [Etherscan Testnet](http://testnet.etherscan.io/)
+* [Etherscan Testnet](https://testnet.etherscan.io/)
+* [ether.camp Testnet](https://morden.ether.camp/)
+
+## Network Stats
+
+* [Ethstats](https://ethstats.net/)
+* [Ethernodes](http://ethernodes.org/)
 
 ## Organisations
 
