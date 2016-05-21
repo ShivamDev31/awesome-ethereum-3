@@ -11,7 +11,7 @@
 * [Nodes](#nodes)
 * [Projects](#projects)
 * [Explorers](#explorers)
-* [Network Stats](#network stats)
+* [Network Stats](#network-stats)
 * [Organisations](#organisations)
 * [Related Lists](#related-lists)
 
