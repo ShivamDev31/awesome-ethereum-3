@@ -17,7 +17,7 @@
 
 ## Documentation
 
-* [Ethereum 101](http://www.ethereum-101.com/) - Intro for newcomers.
+* [Ethereum 101](http://www.ethereum101.org/) - Intro for newcomers.
 * [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Current release.
 * [Homestead Guide](https://ethereum-homestead.readthedocs.org/en/latest/) - Future release.
 * [docs.ethereum.org](https://docs.ethereum.org/) - Library guide.
