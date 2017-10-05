@@ -17,10 +17,10 @@
 
 ## Documentation
 
-* [Ethereum 101](http://www.ethereum-101.com/) - Intro for newcomers.
-* [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Current release.
-* [Homestead Guide](https://ethereum-homestead.readthedocs.org/en/latest/) - Future release.
-* [docs.ethereum.org](https://docs.ethereum.org/) - Library guide.
+* [Introduction and Documentation](http://www.ethdocs.org/en/latest/) - Current release.
+* [Formal Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+* [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs)
+* [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Legacy release.
 * [Solidity](http://solidity.readthedocs.org/) - Programming language.
 
 ## Community
@@ -45,8 +45,10 @@
 #### Meetups
 
 * [Meetups](http://ethereum.meetup.com/)
+* [Devcon3 (Upcoming) 2017](https://ethereumfoundation.org/devcon3/)
+* [Devcon2 2016](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
 * [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-* [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
+* [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
 
 ## Nodes
 
