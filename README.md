@@ -20,7 +20,7 @@
 * [Introduction and Documentation](http://www.ethdocs.org/en/latest/) - Current release.
 * [Formal Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
 * [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs)
-* [Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/content/) - Legacy release.
+* [Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [Solidity](http://solidity.readthedocs.org/) - Programming language.
 
 ## Community
