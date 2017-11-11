@@ -12,6 +12,7 @@
 * [Projects](#projects)
 * [Explorers](#explorers)
 * [Network Stats](#network-stats)
+* [Development Environments](#development-environments)
 * [Organisations](#organisations)
 * [Related Lists](#related-lists)
 
@@ -65,8 +66,8 @@
 #### Wallets
 
 ##### Hot wallets
-
 * [Mist](https://github.com/ethereum/mist) - Official wallet with integrated full node.
+* [Metamask](https://metamask.io/) Browser wallet and Ethereum node.
 * [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
 
 ##### Cold wallets
@@ -96,6 +97,11 @@
 
 * [Ethstats](https://ethstats.net/)
 * [Ethernodes](http://ethernodes.org/)
+
+## Development Environments
+
+* [Truffle](http://truffleframework.com/)
+* [Embark](https://github.com/iurimatias/embark-framework)
 
 ## Organisations
 
