@@ -14,6 +14,7 @@
 * [Network Stats](#network-stats)
 * [Development Environments](#development-environments)
 * [Organisations](#organisations)
+* [Books](#books)
 * [Related Lists](#related-lists)
 
 ## Documentation
@@ -133,6 +134,10 @@
 * [Dwarfpool](http://dwarfpool.com/)
 * [Ethpool](http://ethpool.org/)
 * [Nanopool](http://nanopool.org/)
+
+#### Books
+
+* [Ethereum Development with Go](https://goethereumbook.org/)
 
 ## Related Lists
 
