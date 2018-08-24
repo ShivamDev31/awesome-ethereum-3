@@ -134,6 +134,7 @@
 * [Dwarfpool](http://dwarfpool.com/)
 * [Ethpool](http://ethpool.org/)
 * [Nanopool](http://nanopool.org/)
+* [2Miners](https://2miners.com)
 
 #### Books
 
