@@ -145,6 +145,7 @@
 * https://github.com/steve-vincent/awesome-decentralized
 * https://github.com/kgryte/awesome-peer-to-peer
 * https://redecentralize.github.io/alternative-internet/
+* https://github.com/jdourlens/awesome-ethereum-analytics
 
 ## License
 
