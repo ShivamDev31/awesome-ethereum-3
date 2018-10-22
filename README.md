@@ -1,6 +1,6 @@
 # Awesome Ethereum [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for using [Ethereum](https://www.ethereum.org/) and building things on top of it
+> Useful resources for using [Ethereum](https://www.ethereum.org/) and building things on top of it. Ethereum is a decentralized peer to peer network supporting smart contracts. The main network has a cryptocurrency called "Ether".
 
 ![Awesome Ethereum](https://tomashvili.com/images/ethereum_landscape_2.png "Awesome Ethereum")
 
