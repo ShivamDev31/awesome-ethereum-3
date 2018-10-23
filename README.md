@@ -74,10 +74,10 @@
 * [Mist](https://github.com/ethereum/mist) - Official wallet with integrated full node.
 * [Metamask](https://metamask.io/) Browser wallet and Ethereum node.
 * [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
+* [Myetherwallet](http://myetherwallet.com/) - Client-side interface
 
 ##### Cold wallets
 
-* [Myetherwallet](http://myetherwallet.com/) - Print your own paper wallet
 * [Icebox](https://github.com/consenSys/icebox) - USB Wallet
 * [EthAddress](https://github.com/ryepdx/ethaddress.org) - Paper wallet generator
 
