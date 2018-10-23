@@ -22,8 +22,8 @@
 ## Documentation
 
 * [Introduction and Documentation](http://www.ethdocs.org/en/latest/) - Current release.
-* [Formal Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-* [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs)
+* [Formal Specification](https://ethereum.github.io/yellowpaper/paper.pdf) - The Ethereum Virtual Machine (EVM) standard
+* [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs) - Official standardization repo
 * [Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [Solidity](http://solidity.readthedocs.org/) - Programming language.
 
@@ -31,28 +31,30 @@
 
 #### Chat
 
-* [Gitter](https://gitter.im/ethereum/)
+* [Gitter](https://gitter.im/ethereum/) - EthDev channels with different topics
 * [Freenode IRC #ethereum](irc://irc.freenode.net/ethereum)
 
 #### Forums
 
-* [Offical Blog](https://blog.ethereum.org/)
-* [Stack Exchange](https://ethereum.stackexchange.com/)
-* [Reddit](https://www.reddit.com/r/ethereum)
+* [Offical Blog](https://blog.ethereum.org/) - Ethereum Foundation news, security notices, event updates
+* [Stack Exchange](https://ethereum.stackexchange.com/) - Question and Answer site
+* [Reddit](https://www.reddit.com/r/ethereum) - Main Ethereum subreddit
+* [Reddit](https://www.reddit.com/r/ethdev) - Developer subreddit
 
 #### News
 
-* [Twitter](https://twitter.com/ethereumproject)
-* [Youtube](http://www.youtube.com/ethereumproject)
-* [Facebook](https://www.facebook.com/ethereumproject)
+* [Twitter](https://twitter.com/ethereumproject) - Ethereum Foundation account
+* [Youtube](http://www.youtube.com/ethereumproject) - Ethereum Foundation account
+* [Facebook](https://www.facebook.com/ethereumproject) - Ethereum Foundation account
 
 #### Meetups
 
-* [Meetups](http://ethereum.meetup.com/)
-* [Devcon3 (Upcoming) 2017](https://ethereumfoundation.org/devcon3/)
-* [Devcon2 2016](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
-* [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-* [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
+* [Meetups](http://ethereum.meetup.com/) - Worldwide communities
+* [Devcon4 2018](https://devcon4.ethereum.org/) - Prague
+* [Devcon3 2017](https://ethereumfoundation.org/devcon3/) - Cancún
+* [Devcon2 2016](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) - Shanghai
+* [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) - London
+* [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) - Berlin
 
 ## Nodes
 
@@ -75,9 +77,9 @@
 
 ##### Cold wallets
 
-* [Myetherwallet](http://myetherwallet.com/)
-* [Icebox](https://github.com/consenSys/icebox)
-* [EthAddress](https://github.com/ryepdx/ethaddress.org)
+* [Myetherwallet](http://myetherwallet.com/) - Print your own paper wallet
+* [Icebox](https://github.com/consenSys/icebox) - USB Wallet
+* [EthAddress](https://github.com/ryepdx/ethaddress.org) - Paper wallet generator
 
 ## Projects
 
@@ -87,14 +89,14 @@
 
 #### Mainnet
 
-* [Etherscan](https://etherscan.io/)
-* [ether.camp](https://live.ether.camp/)
-* [Etherchain](https://www.etherchain.org/)
+* [Etherscan](https://etherscan.io/) - block explorer, statistics, smart contract interaction, has API
+* [Etherchain](https://www.etherchain.org/) - blocks, accounts, contract sources, statistics
 
 #### Testnet
 
-* [Etherscan Testnet](https://testnet.etherscan.io/)
-* [ether.camp Testnet](https://morden.ether.camp/)
+* [Overview](https://bitfalls.com/2018/05/31/what-is-an-ethereum-testnet-and-how-is-it-used/) - describes 3 major testnets
+* [Rinkeby](https://www.rinkeby.io/#stats) - by Parity with Proof of Authority (PoA)
+* [Kovan](https://kovan.etherscan.io/) - by Ethereum Foundation, also with PoA
 
 ## Network Stats
 
@@ -112,22 +114,21 @@
 
 ##### Non-profit
 
-* [Ethereum Foundation](https://www.ethereum.org/foundation)
-* [ETHDEV](http://ethdev.com/)
+* [Ethereum Foundation](https://www.ethereum.org/foundation) - The original entity developing the Ethereum network
 
 ##### For-profit
 
-* [Consensys](https://consensys.net/)
-* [Ethcore](https://ethcore.io/)
-* [Slock.it](https://slock.it/)
+* [Consensys](https://consensys.net/) - International group of 50+ companies
+* [Parity](https://www.parity.io/) - Infrastructure
+* [Slock.it](https://slock.it/) - Internet of Things
 
 #### Exchanges
 
-* [Bittrex](https://bittrex.com/)
-* [Gatecoin](https://gatecoin.com/)
-* [Kraken](https://kraken.com/)
-* [Poloniex](https://poloniex.com/)
-* [Shapeshift](https://shapeshift.io/)
+* [Bittrex](https://bittrex.com/) - Washington
+* [Gatecoin](https://gatecoin.com/) - Hong Kong
+* [Kraken](https://kraken.com/) - San Franscisco
+* [Poloniex](https://poloniex.com/) - Delaware
+* [Shapeshift](https://shapeshift.io/) - Switzerland
 
 #### Mining Pools
 
@@ -140,7 +141,7 @@
 
 #### Books
 
-* [Ethereum Development with Go](https://goethereumbook.org/)
+* [Ethereum Development with Go](https://goethereumbook.org/) - Interacting with an Ethereum client
 
 ## Related Lists
 
