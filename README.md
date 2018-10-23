@@ -2,7 +2,7 @@
 
 > Useful resources for using [Ethereum](https://www.ethereum.org/) and building things on top of it
 
-![Awesome Ethereum](https://tomashvili.com/images/ethereum_landscape_2.png "Awesome Ethereum")
+![Ethereum Logo](eth_logo.png)
 
 ## Contents
 
