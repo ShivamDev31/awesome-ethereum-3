@@ -2,7 +2,9 @@
 
 > Useful resources for using [Ethereum](https://www.ethereum.org/) and building things on top of it
 
-![Ethereum Logo](eth_logo.png)
+<p align="center">
+  <img src="eth_logo.png">
+</p>
 
 ## Contents
 
