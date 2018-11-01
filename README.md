@@ -22,8 +22,8 @@
 ## Documentation
 
 * [Introduction and Documentation](http://www.ethdocs.org/en/latest/) - Current release.
-* [Formal Specification](https://ethereum.github.io/yellowpaper/paper.pdf) - The Ethereum Virtual Machine (EVM) standard
-* [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs) - Official standardization repo
+* [Formal Specification](https://ethereum.github.io/yellowpaper/paper.pdf) - The Ethereum Virtual Machine (EVM) standard.
+* [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs) - Official standardization repo.
 * [Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 * [Solidity](http://solidity.readthedocs.org/) - Programming language.
 
@@ -31,28 +31,28 @@
 
 #### Chat
 
-* [Gitter](https://gitter.im/ethereum/) - EthDev channels with different topics
-* [Freenode IRC #ethereum](irc://irc.freenode.net/ethereum)
+* [Gitter](https://gitter.im/ethereum/) - EthDev channels with different topics.
+* [Freenode IRC #ethereum](irc://irc.freenode.net/ethereum) - Internet Relay Chat channel for developers.
 
 #### Forums
 
-* [Offical Blog](https://blog.ethereum.org/) - Ethereum Foundation news, security notices, event updates
-* [Stack Exchange](https://ethereum.stackexchange.com/) - Question and Answer site
-* [Reddit](https://www.reddit.com/r/ethereum) - Main Ethereum subreddit
-* [Reddit](https://www.reddit.com/r/ethdev) - Developer subreddit
+* [Offical Blog](https://blog.ethereum.org/) - Ethereum Foundation news, security notices, event updates.
+* [Stack Exchange](https://ethereum.stackexchange.com/) - Question and Answer site.
+* [Reddit](https://www.reddit.com/r/ethereum) - Main Ethereum subreddit.
+* [Reddit](https://www.reddit.com/r/ethdev) - Developer subreddit.
 
 #### News
 
-* [Twitter](https://twitter.com/ethereumproject) - Ethereum Foundation account
-* [Youtube](http://www.youtube.com/ethereumproject) - Ethereum Foundation account
-* [Facebook](https://www.facebook.com/ethereumproject) - Ethereum Foundation account
+* [Twitter](https://twitter.com/ethereumproject) - Ethereum Foundation account.
+* [Youtube](http://www.youtube.com/ethereumproject) - Ethereum Foundation account.
+* [Facebook](https://www.facebook.com/ethereumproject) - Ethereum Foundation account.
 
 #### Meetups
 
-* [Meetups](http://ethereum.meetup.com/) - Worldwide communities
-* [Devcon4 2018](https://devcon4.ethereum.org/) - Prague
-* [Devcon3 2017](https://ethereumfoundation.org/devcon3/) - Cancún
-* [Devcon2 2016](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) - Shanghai
+* [Meetups](http://ethereum.meetup.com/) - Worldwide communities.
+* [Devcon4 2018](https://devcon4.ethereum.org/) - Prague.
+* [Devcon3 2017](https://ethereumfoundation.org/devcon3/) - Cancún.
+* [Devcon2 2016](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) - Shanghai.
 * [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) - London
 * [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) - Berlin
 
@@ -74,12 +74,12 @@
 * [Mist](https://github.com/ethereum/mist) - Official wallet with integrated full node.
 * [Metamask](https://metamask.io/) Browser wallet and Ethereum node.
 * [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
-* [Myetherwallet](http://myetherwallet.com/) - Client-side interface
+* [Myetherwallet](http://myetherwallet.com/) - Client-side interface.
 
 ##### Cold wallets
 
-* [Icebox](https://github.com/consenSys/icebox) - USB Wallet
-* [EthAddress](https://github.com/ryepdx/ethaddress.org) - Paper wallet generator
+* [Icebox](https://github.com/consenSys/icebox) - USB Wallet.
+* [EthAddress](https://github.com/ryepdx/ethaddress.org) - Paper wallet generator.
 
 ## Projects
 
@@ -89,24 +89,24 @@
 
 #### Mainnet
 
-* [Etherscan](https://etherscan.io/) - block explorer, statistics, smart contract interaction, has API
-* [Etherchain](https://www.etherchain.org/) - blocks, accounts, contract sources, statistics
+* [Etherscan](https://etherscan.io/) - Block explorer, statistics, smart contract interaction, has API.
+* [Etherchain](https://www.etherchain.org/) - Blocks, accounts, contract sources, statistics.
 
 #### Testnet
 
-* [Overview](https://bitfalls.com/2018/05/31/what-is-an-ethereum-testnet-and-how-is-it-used/) - describes 3 major testnets
-* [Rinkeby](https://www.rinkeby.io/#stats) - by Parity with Proof of Authority (PoA)
-* [Kovan](https://kovan.etherscan.io/) - by Ethereum Foundation, also with PoA
+* [Overview](https://bitfalls.com/2018/05/31/what-is-an-ethereum-testnet-and-how-is-it-used/) - Describes 3 major testnets.
+* [Rinkeby](https://www.rinkeby.io/#stats) - By Parity with Proof of Authority (PoA).
+* [Kovan](https://kovan.etherscan.io/) - By Ethereum Foundation, also with PoA.
 
 ## Network Stats
 
-* [Ethstats](https://ethstats.net/)
-* [Ethernodes](http://ethernodes.org/)
+* [Ethstats](https://ethstats.net/) - Overview of running nodes and mining statistics.
+* [Ethernodes](http://ethernodes.org/) - Mainnet and Testnet client number and versions.
 
 ## Development Environments
 
-* [Truffle](http://truffleframework.com/)
-* [Embark](https://github.com/iurimatias/embark-framework)
+* [Truffle](http://truffleframework.com/) - Suite for creating Distributed Applications (DApps) by Consensys.
+* [Embark](https://github.com/iurimatias/embark-framework) - Framework for creating Distributed Applications (DApps) by Status.
 
 ## Organisations
 
@@ -114,21 +114,21 @@
 
 ##### Non-profit
 
-* [Ethereum Foundation](https://www.ethereum.org/foundation) - The original entity developing the Ethereum network
+* [Ethereum Foundation](https://www.ethereum.org/foundation) - The original entity developing the Ethereum network.
 
 ##### For-profit
 
-* [Consensys](https://consensys.net/) - International group of 50+ companies
-* [Parity](https://www.parity.io/) - Infrastructure
-* [Slock.it](https://slock.it/) - Internet of Things
+* [Consensys](https://consensys.net/) - International group of 50+ companies.
+* [Parity](https://www.parity.io/) - Digital Infrastructure company.
+* [Slock.it](https://slock.it/) - Internet of Things company.
 
 #### Exchanges
 
-* [Bittrex](https://bittrex.com/) - Washington
-* [Gatecoin](https://gatecoin.com/) - Hong Kong
-* [Kraken](https://kraken.com/) - San Franscisco
-* [Poloniex](https://poloniex.com/) - Delaware
-* [Shapeshift](https://shapeshift.io/) - Switzerland
+* [Bittrex](https://bittrex.com/) - Washington.
+* [Gatecoin](https://gatecoin.com/) - Hong Kong.
+* [Kraken](https://kraken.com/) - San Franscisco.
+* [Poloniex](https://poloniex.com/) - Delaware.
+* [Shapeshift](https://shapeshift.io/) - Switzerland.
 
 #### Mining Pools
 
@@ -141,7 +141,7 @@
 
 #### Books
 
-* [Ethereum Development with Go](https://goethereumbook.org/) - Interacting with an Ethereum client
+* [Ethereum Development with Go](https://goethereumbook.org/) - Interacting with an Ethereum client with the Go language.
 
 ## Related Lists
 
