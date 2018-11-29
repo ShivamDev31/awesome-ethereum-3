@@ -107,6 +107,7 @@
 
 * [Truffle](http://truffleframework.com/) - Suite for creating Distributed Applications (DApps) by Consensys.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for creating Distributed Applications (DApps) by Status.
+* [Superblocks Lab](https://lab.superblocks.com/) - Web-IDE for creating Decentralized Applications (DApps).
 
 ## Organisations
 
