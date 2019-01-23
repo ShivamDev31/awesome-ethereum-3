@@ -51,10 +51,10 @@
 
 * [Meetups](http://ethereum.meetup.com/) - Worldwide communities.
 * [Devcon4 2018](https://devcon4.ethereum.org/) - Prague.
-* [Devcon3 2017](https://ethereumfoundation.org/devcon3/) - Cancún.
+* [Devcon3 2017](https://blog.ethereum.org/2017/11/16/devcon3/) - Cancún.
 * [Devcon2 2016](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) - Shanghai.
-* [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) - London
-* [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) - Berlin
+* [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk) - London.
+* [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS) - Berlin.
 
 ## Nodes
 
@@ -64,15 +64,15 @@
 * [Geth](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum) - Go.
 * [Eth](https://github.com/ethereum/webthree-umbrella) - C++.
 * [EthereumJ](http://ethereumj.io/) - Java.
-* [EthereumJS](https://ethereumjs.github.io/) - Javascript.
-* [Parity](https://ethcore.io/parity.html) - Rust.
+* [EthereumJS](https://ethereumjs.github.io/) - JavaScript.
+* [Parity](https://www.parity.io/) - Rust.
 * [PyEthereum](https://github.com/ethereum/pyethereum) - Python.
 
 #### Wallets
 
 ##### Hot wallets
 * [Mist](https://github.com/ethereum/mist) - Official wallet with integrated full node.
-* [Metamask](https://metamask.io/) Browser wallet and Ethereum node.
+* [Metamask](https://metamask.io/) - Browser wallet and Ethereum node.
 * [Jaxx](http://jaxx.io/) - Supports both Ethereum and Bitcoin.
 * [Myetherwallet](http://myetherwallet.com/) - Client-side interface.
 
@@ -82,8 +82,6 @@
 * [EthAddress](https://github.com/ryepdx/ethaddress.org) - Paper wallet generator.
 
 ## Projects
-
-* [State of the Dapps](http://dapps.ethercasts.com/) - List of many applications.
 
 ## Explorers
 
@@ -105,7 +103,7 @@
 
 ## Development Environments
 
-* [Truffle](http://truffleframework.com/) - Suite for creating Distributed Applications (DApps) by Consensys.
+* [Truffle](https://truffleframework.com/) - Suite for creating Distributed Applications (DApps) by Consensys.
 * [Embark](https://github.com/iurimatias/embark-framework) - Framework for creating Distributed Applications (DApps) by Status.
 * [Superblocks Lab](https://lab.superblocks.com/) - Web-IDE for creating Decentralized Applications (DApps).
 
