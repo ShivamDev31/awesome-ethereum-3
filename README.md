@@ -21,7 +21,7 @@
 
 ## Documentation
 
-* [Introduction and Documentation](http://www.ethdocs.org/en/latest/) - Current release.
+* [Introduction and Documentation](https://ethereum.org/developers/) - Current release.
 * [Formal Specification](https://ethereum.github.io/yellowpaper/paper.pdf) - The Ethereum Virtual Machine (EVM) standard.
 * [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs) - Official standardization repo.
 * [Ethereum Virtual Machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
@@ -43,13 +43,14 @@
 
 #### News
 
-* [Twitter](https://twitter.com/ethereumproject) - Ethereum Foundation account.
+* [Twitter](https://twitter.com/ethereum) - Ethereum Foundation account.
 * [Youtube](http://www.youtube.com/ethereumproject) - Ethereum Foundation account.
 * [Facebook](https://www.facebook.com/ethereumproject) - Ethereum Foundation account.
 
 #### Meetups
 
 * [Meetups](http://ethereum.meetup.com/) - Worldwide communities.
+* [Devcon5 2019](https://devcon.org/) - Osaka.
 * [Devcon4 2018](https://devcon4.ethereum.org/) - Prague.
 * [Devcon3 2017](https://blog.ethereum.org/2017/11/16/devcon3/) - Cancún.
 * [Devcon2 2016](https://www.youtube.com/watch?v=1wayaZ1-iBE&list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd) - Shanghai.
@@ -124,7 +125,6 @@
 #### Exchanges
 
 * [Bittrex](https://bittrex.com/) - Washington.
-* [Gatecoin](https://gatecoin.com/) - Hong Kong.
 * [Kraken](https://kraken.com/) - San Franscisco.
 * [Poloniex](https://poloniex.com/) - Delaware.
 * [Shapeshift](https://shapeshift.io/) - Switzerland.
